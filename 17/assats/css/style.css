@@ -1,0 +1,23 @@
+nav {
+    background: #417B5A;
+}
+nav th{
+    width: 150px
+}
+footer{
+    background: #417B5A;
+}
+main th{
+    width: 150px;
+    background: red
+}
+table{
+    border: 3px solid #417B5A;
+}
+td{
+    border: 2px solid #417B5A;
+}
+img{
+    width: 25%;
+    float: left;
+}

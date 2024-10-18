@@ -1,0 +1,27 @@
+body{
+    background: silver
+}
+nav{
+    float: left;
+    width: 100px;
+    height: 400px;
+    background: green;
+    color: white;
+}
+article{
+    background: white;
+    margin-left: 200px;
+}
+main{
+    background: yellow;
+    height: 400px;
+}
+footer{
+    color: white;
+    background: blue;
+    
+}
+header{
+    color: white;
+    background: red;
+}

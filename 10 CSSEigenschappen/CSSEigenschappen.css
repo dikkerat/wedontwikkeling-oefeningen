@@ -1,0 +1,21 @@
+body{
+    font-family: arial;
+    background:silver;
+}
+
+header{
+    background: yellow;
+}
+
+nav{
+    background: green
+}
+
+article{
+    background: red
+}
+
+footer{
+    background: blue
+    color: white
+}
